@@ -29,6 +29,6 @@ exports.handler = async (event, context) => {
       info6: {
         title: "Qtd. Dias",
         subTitle: "-33",
-      },
+      }
     })
 };

@@ -1,7 +1,7 @@
 exports.handler = async (event, context) => {
   return {
     statusCode: 200,
-    body: {
+    body: JSON.stringify({
       title: "Nome do produto 10",
       subTitle: "309825 | 987654321654 | Mix",
       imgLink: "http://alkjlaksjdlkajskajslkdjsa.jpg",
@@ -31,5 +31,5 @@ exports.handler = async (event, context) => {
         subTitle: "-33",
       },
     },
-  };
+  });
 };

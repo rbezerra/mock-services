@@ -4,8 +4,8 @@ exports.handler = async (event, context) => {
       {
         title: "Nome do produto 1",
         subTitle: "309825 | 987654321654 | Mix",
-        imgLink: "http://alkjlaksjdlkajskajslkdjsa.jpg",
-        imgSmallLink: "http://alkjlaksjdlkajskajslkdjsa.jpg",
+        imgLink: "https://cdn.awsli.com.br/600x450/914/914004/produto/36238837/21a33a3709.jpg",
+        imgSmallLink: "https://cdn.awsli.com.br/600x450/914/914004/produto/36238837/21a33a3709.jpg",
         info1: {
           title: "Estoque",
           subTitle: "35",
@@ -34,8 +34,8 @@ exports.handler = async (event, context) => {
       {
         title: "Nome do produto 2",
         subTitle: "309825 | 987654321654 | Mix",
-        imgLink: "http://alkjlaksjdlkajskajslkdjsa.jpg",
-        imgSmallLink: "http://alkjlaksjdlkajskajslkdjsa.jpg",
+        imgLink: "https://cdn.awsli.com.br/600x450/914/914004/produto/36238837/21a33a3709.jpg",
+        imgSmallLink: "https://cdn.awsli.com.br/600x450/914/914004/produto/36238837/21a33a3709.jpg",
         info1: {
           title: "Estoque",
           subTitle: "35",
@@ -64,8 +64,8 @@ exports.handler = async (event, context) => {
       {
         title: "Nome do produto 3",
         subTitle: "309825 | 987654321654 | Mix",
-        imgLink: "http://alkjlaksjdlkajskajslkdjsa.jpg",
-        imgSmallLink: "http://alkjlaksjdlkajskajslkdjsa.jpg",
+        imgLink: "https://cdn.awsli.com.br/600x450/914/914004/produto/36238837/21a33a3709.jpg",
+        imgSmallLink: "https://cdn.awsli.com.br/600x450/914/914004/produto/36238837/21a33a3709.jpg",
         info1: {
           title: "Estoque",
           subTitle: "35",
